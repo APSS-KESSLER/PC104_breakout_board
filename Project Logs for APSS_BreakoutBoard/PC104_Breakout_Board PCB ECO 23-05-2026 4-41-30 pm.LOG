@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=H1 NewDesignator=H6
+Change Component Designator: OldDesignator=H2 NewDesignator=H7
+Change Component Designator: OldDesignator=H3 NewDesignator=H8
+Change Component Designator: OldDesignator=H4 NewDesignator=H9
+Change Component Designator: OldDesignator=H5 NewDesignator=H3
+Change Component Designator: OldDesignator=H6 NewDesignator=H5
+Change Component Designator: OldDesignator=H7 NewDesignator=H10
+Change Component Designator: OldDesignator=H8 NewDesignator=H4
+Change Component Designator: OldDesignator=H9 NewDesignator=H11
+Change Component Designator: OldDesignator=H10 NewDesignator=H12
+Change Component Designator: OldDesignator=H11 NewDesignator=H13
+Change Component Designator: OldDesignator=H12 NewDesignator=H14
+Change Component Designator: OldDesignator=H13 NewDesignator=H15
+Change Component Designator: OldDesignator=H14 NewDesignator=H16
+Change Component Designator: OldDesignator=H15 NewDesignator=H17
+Change Component Designator: OldDesignator=H16 NewDesignator=H18
+Change Component Designator: OldDesignator=H17 NewDesignator=H22
+Change Component Designator: OldDesignator=H18 NewDesignator=H20
+Change Component Designator: OldDesignator=H19 NewDesignator=H23
+Change Component Designator: OldDesignator=H20 NewDesignator=H24
+Change Component Designator: OldDesignator=H22 NewDesignator=H25
+Change Component Designator: OldDesignator=H23 NewDesignator=H19
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD5_A
+Change Net Name : Old Net Name=NetD4_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetD5_A New Net Name=NetD4_A
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H24 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H25 HDR,2.54mm,1x2
