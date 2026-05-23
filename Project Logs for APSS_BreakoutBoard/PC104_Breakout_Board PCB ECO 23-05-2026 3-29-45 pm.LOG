@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=PC104_Breakout_Board Member=J1
+Change Component Designator: OldDesignator=J1 NewDesignator=H1
+Change Component Designator: OldDesignator=J1 NewDesignator=H2
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H1 HDR,2.54mm,1x5
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H2 HDR,2.54mm,1x5
