@@ -271,20 +271,20 @@ GenerateClassCluster=0
 DocumentUniqueId=WPODOHQS
 
 [Parameter1]
-Name=BoardRevision
-Value=
+Name=Project
+Value=PC104 Breakout Board
 
 [Parameter2]
-Name=Designer
-Value=
-
-[Parameter3]
 Name=DesignName
 Value=
 
+[Parameter3]
+Name=Designer
+Value=Nathan Luong
+
 [Parameter4]
-Name=Project
-Value=
+Name=BoardRevision
+Value=A1
 
 [Configuration1]
 Name=Sources
