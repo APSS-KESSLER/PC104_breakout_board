@@ -1,0 +1,155 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D10
+Change Component Designator: OldDesignator=D2 NewDesignator=D12
+Change Component Designator: OldDesignator=D3 NewDesignator=D14
+Change Component Designator: OldDesignator=D4 NewDesignator=D16
+Change Component Designator: OldDesignator=D5 NewDesignator=D1
+Change Component Designator: OldDesignator=D6 NewDesignator=D2
+Change Component Designator: OldDesignator=D7 NewDesignator=D3
+Change Component Designator: OldDesignator=D8 NewDesignator=D4
+Change Component Designator: OldDesignator=D9 NewDesignator=D5
+Change Component Designator: OldDesignator=D10 NewDesignator=D7
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=D14 NewDesignator=D15
+Change Component Designator: OldDesignator=D15 NewDesignator=D17
+Change Component Designator: OldDesignator=D16 NewDesignator=D18
+Change Component Designator: OldDesignator=H3 NewDesignator=H20
+Change Component Designator: OldDesignator=H4 NewDesignator=H18
+Change Component Designator: OldDesignator=H5 NewDesignator=H19
+Change Component Designator: OldDesignator=H6 NewDesignator=H5
+Change Component Designator: OldDesignator=H7 NewDesignator=H6
+Change Component Designator: OldDesignator=H13 NewDesignator=H17
+Change Component Designator: OldDesignator=H14 NewDesignator=H13
+Change Component Designator: OldDesignator=H15 NewDesignator=H3
+Change Component Designator: OldDesignator=H16 NewDesignator=H4
+Change Component Designator: OldDesignator=H17 NewDesignator=H14
+Change Component Designator: OldDesignator=H18 NewDesignator=H7
+Change Component Designator: OldDesignator=H19 NewDesignator=H15
+Change Component Designator: OldDesignator=H20 NewDesignator=H16
+Change Component Designator: OldDesignator=H21 NewDesignator=H22
+Change Component Designator: OldDesignator=H22 NewDesignator=H23
+Change Component Designator: OldDesignator=H23 NewDesignator=H24
+Change Component Designator: OldDesignator=H24 NewDesignator=H25
+Change Component Designator: OldDesignator=H25 NewDesignator=H29
+Change Component Designator: OldDesignator=R1 NewDesignator=R10
+Change Component Designator: OldDesignator=R2 NewDesignator=R12
+Change Component Designator: OldDesignator=R3 NewDesignator=R14
+Change Component Designator: OldDesignator=R4 NewDesignator=R16
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Added Component: Designator=D6(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=H21(HEADER_2.54MM_1x6PIN)
+Added Component: Designator=H26(HEADER_2.54MM_1x6PIN)
+Added Component: Designator=H27(HEADER_2.54MM_1x6PIN)
+Added Component: Designator=H28(HEADER_2.54MM_1x6PIN)
+Added Component: Designator=H30(HEADER_2.54MM_1x2PIN)
+Added Component: Designator=R6(RESISTOR_0805_2012M-50N)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESISTOR_0805_2012M-50N)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D6-C
+Added Pin To Net: NetName=GND Pin=D8-C
+Added Pin To Net: NetName=5V_BUS Pin=H21-1
+Added Pin To Net: NetName=5V_BUS Pin=H21-2
+Added Pin To Net: NetName=5V_BUS Pin=H21-3
+Added Pin To Net: NetName=5V_BUS Pin=H21-4
+Added Pin To Net: NetName=5V_BUS Pin=H21-5
+Added Pin To Net: NetName=5V_BUS Pin=H21-6
+Added Pin To Net: NetName=3V3_BUS Pin=H26-1
+Added Pin To Net: NetName=3V3_BUS Pin=H26-2
+Added Pin To Net: NetName=3V3_BUS Pin=H26-3
+Added Pin To Net: NetName=3V3_BUS Pin=H26-4
+Added Pin To Net: NetName=3V3_BUS Pin=H26-5
+Added Pin To Net: NetName=3V3_BUS Pin=H26-6
+Added Pin To Net: NetName=GND Pin=H27-1
+Added Pin To Net: NetName=GND Pin=H27-2
+Added Pin To Net: NetName=GND Pin=H27-3
+Added Pin To Net: NetName=GND Pin=H27-4
+Added Pin To Net: NetName=GND Pin=H27-5
+Added Pin To Net: NetName=GND Pin=H27-6
+Added Pin To Net: NetName=5V_BUS Pin=H28-1
+Added Pin To Net: NetName=5V_BUS Pin=H28-2
+Added Pin To Net: NetName=5V_BUS Pin=H28-3
+Added Pin To Net: NetName=5V_BUS Pin=H28-4
+Added Pin To Net: NetName=5V_BUS Pin=H28-5
+Added Pin To Net: NetName=5V_BUS Pin=H28-6
+Added Pin To Net: NetName=BCR_OUT Pin=H30-1
+Added Pin To Net: NetName=BAT_RAW Pin=H30-2
+Added Pin To Net: NetName=5V_LUP Pin=R6-1
+Added Pin To Net: NetName=3V3_LUP Pin=R8-1
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD10_A
+Change Net Name : Old Net Name=NetD2_A New Net Name=NetD12_A
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD14_A
+Change Net Name : Old Net Name=NetD4_A New Net Name=NetD16_A
+Change Net Name : Old Net Name=NetD5_A New Net Name=NetD1_A
+Change Net Name : Old Net Name=NetD6_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetD7_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetD8_A New Net Name=NetD4_A
+Change Net Name : Old Net Name=NetD9_A New Net Name=NetD5_A
+Change Net Name : Old Net Name=NetD10_A New Net Name=NetD7_A
+Change Net Name : Old Net Name=NetD11_A New Net Name=NetD9_A
+Change Net Name : Old Net Name=NetD12_A New Net Name=NetD11_A
+Change Net Name : Old Net Name=NetD14_A New Net Name=NetD15_A
+Change Net Name : Old Net Name=NetD15_A New Net Name=NetD17_A
+Change Net Name : Old Net Name=NetD16_A New Net Name=NetD18_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R6-2
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=R8-2
+Added Net: Name=NetD8_A
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D17 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D18 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H26 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H27 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H28 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H29 HDR,2.54mm,1x2
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H30 HDR,2.54mm,1x2
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R17 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R18 2.2k
