@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=5V_BUS Pin=H21-1
+Removed Pin From Net: NetName=5V_BUS Pin=H21-2
+Removed Pin From Net: NetName=5V_BUS Pin=H21-3
+Removed Pin From Net: NetName=5V_BUS Pin=H21-4
+Removed Pin From Net: NetName=5V_BUS Pin=H21-5
+Removed Pin From Net: NetName=5V_BUS Pin=H21-6
+Removed Pin From Net: NetName=BCR_OUT Pin=H29-1
+Removed Pin From Net: NetName=BAT_RAW Pin=H29-2
+Removed Pin From Net: NetName=BCR_OUT Pin=H30-1
+Removed Pin From Net: NetName=BAT_RAW Pin=H30-2
+Removed Member From Class: ClassName=PC104_Breakout_Board Member=H29
+Removed Member From Class: ClassName=PC104_Breakout_Board Member=H30
+Change Component Designator: OldDesignator=H19 NewDesignator=H22
+Change Component Designator: OldDesignator=H20 NewDesignator=H19
+Change Component Designator: OldDesignator=H22 NewDesignator=H20
+Change Component Designator: OldDesignator=H23 NewDesignator=H21
+Change Component Designator: OldDesignator=H27 NewDesignator=H23
+Change Component Designator: OldDesignator=H28 NewDesignator=H27
+Added Component: Designator=H28(HEADER_2.54MM_1x4PIN)
+Added Pin To Net: NetName=BCR_OUT Pin=H28-1
+Added Pin To Net: NetName=BAT_RAW Pin=H28-2
+Added Pin To Net: NetName=BCR_OUT Pin=H28-3
+Added Pin To Net: NetName=BAT_RAW Pin=H28-4
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D1 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D4 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D6 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D7 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D8 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D11 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D12 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component D16 LTST-C190 Series
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H3 HDR,2.54mm,1x3
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H4 HDR,2.54mm,1x3
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H7 HDR,2.54mm,1x3
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H14 HDR,2.54mm,1x5
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H17 HDR,2.54mm,1x3
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H19 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H20 HDR,2.54mm,1x3
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H22 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H24 HDR,2.54mm,1x6
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component H28 HDR,2.54mm,1x4
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R1 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R3 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R4 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R6 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R7 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R8 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R9 2.2k
+Added Member To Class: ClassName=PC104_Breakout_Board Member=Component R15 2.2k
