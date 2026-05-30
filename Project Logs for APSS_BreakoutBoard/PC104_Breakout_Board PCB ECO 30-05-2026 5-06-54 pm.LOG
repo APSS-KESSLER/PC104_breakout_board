@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CS_TG Pin=H2-03
+Added Pin To Net: NetName=CS_TG Pin=H9-4
+Added Pin To Net: NetName=CS_TG Pin=R1-1
+Added Net: Name=CS_TG
