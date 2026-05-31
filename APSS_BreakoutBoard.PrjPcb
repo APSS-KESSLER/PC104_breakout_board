@@ -287,6 +287,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Outjob-Outputs\Design Rule Check - PC104_Breakout_Board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=BoardRevision
 Value=A1
